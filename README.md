@@ -27,3 +27,6 @@ Node.js is a C++ application(CLI) which can understand and run javascript code o
     <li>Command-Line tools for example(npm,typeScript,Webpack,ESLint , Yarn,Create React App.Vue CLI , Angular CLI , Perttier, and more. )</li>
     <li>Internet of Things(IoT)</li>
 </ul>
+
+* In windows fine representation is //  - 'C:\\Users\\Mr Singh\\Desktop\\ProCodrr Node JS'
+* GlobalThis in Node.js or JavaScript
