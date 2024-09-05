@@ -62,3 +62,11 @@ Node.js is extends the capabilities of javascript beyound what is possible when 
     <li>Node.js : Can interact with the operating system to perform tasks like reading environment variables, interacting with system processes , scheduling tasks,etc</li>
     <li>Normal JavaScript : In a Browser , javascript is sandboxed and connot interact with the operating system directly , limiting its capabilities to brower related tasks. </li>
 </ul>
+
+# Terminal
+
+always use Bash Terminal , In windows install bash 
+<ol>
+    <li>Install Download Git </li>
+    <li>Then go to visual studio get Default Terminal to Bash.</li>
+</lo> 
