@@ -70,3 +70,5 @@ always use Bash Terminal , In windows install bash
     <li>Install Download Git </li>
     <li>Then go to visual studio get Default Terminal to Bash.</li>
 </lo> 
+
+* Echo Command - .sh is the bash file (This command name is echo this is use for Display text , create a files , bebug and test etc)
