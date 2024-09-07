@@ -72,3 +72,7 @@ always use Bash Terminal , In windows install bash
 </lo> 
 
 * Echo Command - .sh is the bash file (This command name is echo this is use for Display text , create a files , bebug and test etc)
+
+* pwd - Show Curent Directory
+
+* whoami - Current user name
