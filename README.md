@@ -76,3 +76,25 @@ always use Bash Terminal , In windows install bash
 * pwd - Show Curent Directory
 
 * whoami - Current user name
+
+* cd - Change directory
+
+* ls - List Directory - view all hidden file  - ls -a or ls -la
+
+# Create Delete Renamed Directory
+
+* mkdir - create folder - Example: mkdir sec
+
+* touch - Create a file - Example: touch index.html
+
+* cp - Copy file  - Example: cp index.htmt Folder name
+
+* mv - Move file - Example: mv index.html Folder name
+
+* mv - Rename file - Example: mv app.js server.js
+
+* rm - Remove file - Example: rm app.js
+
+* rmdir - Remove Empty directory  - Example: rm src
+
+* rm -r - Remove folder with file contain - Example: rm -r src
