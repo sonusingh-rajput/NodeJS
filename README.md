@@ -81,7 +81,7 @@ always use Bash Terminal , In windows install bash
 
 * ls - List Directory - view all hidden file  - ls -a or ls -la
 
-# Create Delete Renamed Directory
+# Create Delete Rename Directory
 
 * mkdir - create folder - Example: mkdir sec
 
@@ -98,3 +98,22 @@ always use Bash Terminal , In windows install bash
 * rmdir - Remove Empty directory  - Example: rm src
 
 * rm -r - Remove folder with file contain - Example: rm -r src
+
+# View and Edit File System
+
+* cat - Read and View File  - Example: cat index.html
+
+* nano - nano is a default editor - Example: nano scipt.js
+
+* vim - vim is also a default editor this is very powerful - Example: vim scipt.js
+<ol>
+    <li>Code written is Complete and save and exit we have a step</li>
+    <li>Press i to written any things</li>
+    <li>First Click ESC key</li>
+    <li>then first to save - Press (Shift + :)</li>
+    <li>Written :w  then press Enter</li>
+    <li>the Press (Shift + :)</li>
+    <li>Written :q  then press Enter to exit the vim</li>
+    <li>Without save exit type :q!</li>
+    <li>save exit type :wq</li>
+</ol>
