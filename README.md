@@ -3,6 +3,7 @@
 CLI(command-line Interface) and GUI (Graphical User Interface) are two different ways of intrecting with a Computer or Software.
 
 <h3>What is CLI</h3>
+
 * Definations :- A text-based interface where users type commands to Perform Tasks.
 * How it Works :- You interact with the system by typing specific commands into a terminal or console.
 
@@ -117,3 +118,11 @@ always use Bash Terminal , In windows install bash
     <li>Without save exit type :q!</li>
     <li>save exit type :wq</li>
 </ol>
+
+# Prompt in Terminal
+
+Prompt variables
+* PS1: The primary command prompt displayed when the shell is waiting for input.
+* PS2: The secondary prompt displayed when more input is needed (e.g., multi-line commands).
+* PS3: The prompt used by the select command in shell scripts.
+* PS4: The prompt used in debugging mode (when set -x is enabled).
