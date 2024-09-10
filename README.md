@@ -106,7 +106,8 @@ always use Bash Terminal , In windows install bash
 
 * nano - nano is a default editor - Example: nano scipt.js
 
-* vim - vim is also a default editor this is very powerful - Example: vim scipt.js
+* vim - vim is also a default editor this is very powerful - Example: vim scipt.js 
+<br>
 <ol>
     <li>Code written is Complete and save and exit we have a step</li>
     <li>Press i to written any things</li>
@@ -126,3 +127,12 @@ Prompt variables
 * PS2: The secondary prompt displayed when more input is needed (e.g., multi-line commands).
 * PS3: The prompt used by the select command in shell scripts.
 * PS4: The prompt used in debugging mode (when set -x is enabled).
+
+Note - In open file explorer in command line  use explorer .
+
+# Terminal Using .bashrc File
+* create a file in Home directory go to home directory will this command cd ~/
+* create a file named .bashrc and .bash_profile
+* If any thing you can write in .bashrc file you will start the command the auto run this file
+* Type the echo $PS1 then show PS1 file go to chatgpt how can change the Name and past the command in .bashrc file
+*  Aliases to short the command code source ~/.bashrc to written aliase src="source ~/.bashrc" then you can type ony src command to run this command
