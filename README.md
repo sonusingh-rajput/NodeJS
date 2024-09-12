@@ -136,3 +136,26 @@ Note - In open file explorer in command line  use explorer .
 * If any thing you can write in .bashrc file you will start the command the auto run this file
 * Type the echo $PS1 then show PS1 file go to chatgpt how can change the Name and past the command in .bashrc file
 *  Aliases to short the command code source ~/.bashrc to written aliase src="source ~/.bashrc" then you can type ony src command to run this command
+
+# What is OS ?
+
+OS is a software,He manage Hardware Resources, and many other things.
+
+* What is Karnal - He Manage spaclized for Hardware Resources
+
+# What is Process ?
+Process is a Unit of Exuction 
+
+Type of States
+
+1- Ready State
+2- Wating State
+3- Running State
+4- Sleep State
+5- Terminating State
+
+* Process ID  - 
+* Context Switching - 
+
+* Download this tool  - https://systeminformer.sourceforge.io/downloads.php
+
