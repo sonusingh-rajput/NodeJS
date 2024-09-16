@@ -160,3 +160,6 @@ Type of States
 * Download this tool  - https://systeminformer.sourceforge.io/downloads.php
 
 # Learn About Threads , Concurrency and Parallelism ?
+
+* Threads - Worker of Process (More learn to ChatGPT)
+* Spawning Thread - 
