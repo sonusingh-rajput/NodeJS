@@ -163,3 +163,5 @@ Type of States
 
 * Threads - Worker of Process (More learn to ChatGPT)
 * Spawning Thread - 
+* Main Thread -
+* Can a Process Exist Without a Thread ? - 
