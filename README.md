@@ -165,3 +165,15 @@ Type of States
 * Spawning Thread - 
 * Main Thread -
 * Can a Process Exist Without a Thread ? - 
+
+# Environment Variables ?
+ - Key value pairs of String
+ <ol>
+    * 3 Type of Environment Variables 
+    <li>Process</li>
+    <li>User</li>
+    <li>System</li>
+</ol>
+* show Environment Variables command line  - printenv or env
+* Set the Environment Variables using command Bash - setx VARIABLE_NAME "value"
+* Remove a User-Level Environment Variable using besh command - Remove a setx VARIABLE_NAME ""
