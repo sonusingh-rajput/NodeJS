@@ -177,3 +177,7 @@ Type of States
 * show Environment Variables command line  - printenv or env
 * Set the Environment Variables using command Bash - setx VARIABLE_NAME "value"
 * Remove a User-Level Environment Variable using besh command - Remove a setx VARIABLE_NAME ""
+
+# Installing Windows Subsystem for Linux (WSL)
+1- open Command Prompt
+2- Type wsl --install
